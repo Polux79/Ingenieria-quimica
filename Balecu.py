@@ -1,5 +1,6 @@
 https://colab.research.google.com/drive/1Q7xaF467CUFrwQ27Ob5-jHgcK2vZZbQw?pli=1&authuser=1#scrollTo=Eqh9nO7HEASy
 
+#pip install chemics # Instalación del paquete chemics
 import chemics as cm
 
 #ce = cm.ChemicalEquation('2 HCl + 2 Na -> 2 NaCl + H2')
